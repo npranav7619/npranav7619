@@ -1,8 +1,8 @@
 # Hello There 
- General Kenobi, you are a bold one!
+General Kenobi, you are a bold one!
 
-## N.Pranav Krishna
-### Cyber-Security Enthusiast
+##N.Pranav Krishna
+###Cyber-Security Enthusiast
 
 
 <h3 align="left">Connect with me:</h3>
