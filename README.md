@@ -9,10 +9,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=npranav7619&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=npranav7619&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pranav-krishna-95b989234/">
